@@ -1,0 +1,13 @@
+{
+  "name" : "test",
+  "require" : {
+    "yosymfony/toml" : "v0.3.3",
+    "mustangostang/spyc" : "0.6.2",
+    "pear/http_request2" : "v2.3.0",
+    "yiisoft/yii2" : "2.0.12"
+  },
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ]
+}
